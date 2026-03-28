@@ -1,0 +1,21 @@
+qiskit==0.45.0:
+
+The main Qiskit library for working with quantum circuits.
+Version 0.45.0 is stable and widely used.
+
+
+qiskit-aer==0.12.0:
+
+The Aer simulator backend for Qiskit.
+Required to simulate quantum circuits locally.
+
+
+matplotlib==3.7.0:
+
+Used for plotting histograms and visualizing results.
+
+
+jupyter==1.0.0:
+
+Needed to run Jupyter Notebooks (if you’re using .ipynb files).
+

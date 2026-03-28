@@ -1,0 +1,6 @@
+quantum-algorithms/
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── notebooks/
+    └── quantum_algorithms.ipynb  # Our main notebook
