@@ -1,3 +1,9 @@
+# Quantum Algorithms Comparison
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Rathodvamshi007/quantum-algorithms-comparison/blob/main/quantum_algorithms.ipynb)
+
+
 Quantum Algorithms Demo
 =======================
 
@@ -49,3 +55,6 @@ quantum-algorithms-demo/
 License
 -------
 This project is licensed under the MIT License.
+
+
+
