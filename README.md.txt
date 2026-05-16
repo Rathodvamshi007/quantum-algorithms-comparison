@@ -10,7 +10,8 @@ Quantum Algorithms Demo
 A Jupyter Notebook demonstrating three foundational quantum algorithms:
 1. Quantum Teleportation
 2. Deutsch-Jozsa Algorithm
-3. Grover's Search Algorithm
+3. Grover's Search Algorithm 
+ this is an sample development we can add or improve more and enhance
 
 
 
